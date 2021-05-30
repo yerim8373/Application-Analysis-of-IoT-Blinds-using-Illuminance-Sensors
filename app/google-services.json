@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "178445946775",
+    "project_id": "capstone-design-84fbc",
+    "storage_bucket": "capstone-design-84fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178445946775:android:49254482d6185303ab7ed2",
+        "android_client_info": {
+          "package_name": "com.cookandroid.a11_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178445946775-m9a7kuj53lcdr4o0par5et9lvjfjmvre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.a11_1",
+            "certificate_hash": "d4dba94da5feeedfd81b2f1539bdeac867f15075"
+          }
+        },
+        {
+          "client_id": "178445946775-ipjq2hslklvfuvivlishbf4vm2t7o365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8TXFUP-h3nMxuRKb75VL1KiQ_YNNwNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178445946775-ipjq2hslklvfuvivlishbf4vm2t7o365.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178445946775:android:ad8cb02e0f711313ab7ed2",
+        "android_client_info": {
+          "package_name": "com.cookandroid.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178445946775-ipjq2hslklvfuvivlishbf4vm2t7o365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8TXFUP-h3nMxuRKb75VL1KiQ_YNNwNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178445946775-ipjq2hslklvfuvivlishbf4vm2t7o365.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
